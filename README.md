@@ -1,5 +1,6 @@
 # marketingsite
-
+# Deployed on
+https://loving-einstein-b5195c.netlify.app/
 # Possible functionality
     - Coupon Codes with a deal banner saying how many days are left for the code to be valid
     - Quanity Buttons for months or years. If they choose more quanity where the lifetime guarentee deal is better it will automatically select the life time offer instead. 
